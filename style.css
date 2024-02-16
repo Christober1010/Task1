@@ -1,0 +1,46 @@
+.col-10>h1{
+	font-weight:900;
+	color:orange;
+}
+.col-10>h4{
+	font-weight:600;
+	text-transform:uppercase;
+}
+.box-1{
+	background-color:orange;
+}
+.box1>h1,.box2>h1{
+	font-weight:900;
+	text-transform:uppercase;
+}
+.box1>h2,.box2>h2{
+	text-transform:uppercase;
+	font-weight:900;
+}
+.box1>h4,.box2>h4{
+	color: rgb(0,0,0);
+}
+.box3{
+	background-color:rgb(241,91,80);
+}
+.box3 h1,.box7 h1{
+	font-weight:900;
+	text-transform:uppercase;
+}
+.box3 h4{
+	color:black;
+}
+.box4{
+	background-color:rgb(241,91,80);
+}
+.box4 h1{
+	font-weight:900;
+	text-transform:uppercase;
+}
+.box4 h4,.box5 h4{
+	color:black;
+}
+.box5 h1,.box6 h1{
+	font-weight:900;
+	text-transform:uppercase;
+}
